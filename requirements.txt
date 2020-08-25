@@ -1,0 +1,4 @@
+python==3.7.0
+grpcio==1.23.0
+grpcio-tools==1.23.0
+protobuf==3.9.1
